@@ -35,7 +35,7 @@ Meridian Trust Bank doesn't exist. It's a ~$38B regional bank with a defined org
 
 A React/Chart.js risk monitoring dashboard modeling Meridian's AI systems, risk scoring, and regulatory mapping. [Live demo](#) · [source](./dashboard)
 
-## What this demonstrates — and what it doesn't
+## What this demonstrates and what it doesn't
 
 **This repo shows:** applied understanding of AI-specific risk framing, regulatory vocabulary across NIST AI RMF / SR 11-7 / fair lending law, and the mechanics of translating a framework function into a real finding and a written recommendation.
 
@@ -60,7 +60,7 @@ MIT — see [LICENSE](./LICENSE). Meridian Trust Bank is a fictional entity crea
 
 A React/Chart.js risk monitoring dashboard modeling Meridian's AI systems, risk scoring, and regulatory mapping. [Live demo](#) · [source](./dashboard)
 
-## What this demonstrates — and what it doesn't
+## What this demonstrates and what it doesn't
 
 **This repo shows:** applied understanding of AI-specific risk framing, regulatory vocabulary across NIST AI RMF / SR 11-7 / fair lending law, and the mechanics of translating a framework function into a real finding and a written recommendation.
 
