@@ -19,7 +19,7 @@
 
 ---
 
-## 2. Organizational structure (relevant to governance)
+## 2. Organizational structure
 
 - **Board Risk Committee** — oversight of enterprise risk, receives quarterly model risk reporting
 - **Chief Risk Officer (CRO)** — Elena Marsh — owns enterprise risk framework, dotted line into AI governance
