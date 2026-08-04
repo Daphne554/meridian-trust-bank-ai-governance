@@ -29,7 +29,7 @@
 - **Compliance function** — monitors fair lending, UDAAP, BSA/AML; historically hasn't had a dedicated AI/ML compliance specialist
 - **No dedicated AI Governance Committee yet** — this is a known gap you can use as a Govern-function exercise (e.g., "design the charter for one")
 
-**Three lines of defense (as currently implemented — imperfectly, which is realistic):**
+**Three lines of defense:**
 1. **First line:** Data & Analytics team and business units building/using models  currently does light self-testing before deployment
 2. **Second line:** MRM + Compliance validates and monitors, but AI-specific validation methodology is immature
 3. **Third line:** Internal Audit has flagged AI/ML governance as an emerging risk area in the last two audit cycles but hasn't done a deep-dive audit yet
