@@ -1,4 +1,4 @@
-# Meridian Trust Bank — Company Profile
+# Meridian Trust Bank Company Profile
 
 ---
 
