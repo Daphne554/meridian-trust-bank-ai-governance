@@ -1,5 +1,5 @@
 **Govern Gap Analysis**
-*Meridian Trust Bank · NIST AI RMF, Govern function** 
+*Meridian Trust Bank · NIST AI RMF, Govern function*
 __________________________________________________________________________________________________
 
 **Finding 1: No documented, risk-tiered deployment policy**
