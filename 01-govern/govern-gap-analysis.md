@@ -1,6 +1,8 @@
-**Meridian Trust Bank · NIST AI RMF, Govern function** 
+**Govern Gap Analysis**
+*Meridian Trust Bank · NIST AI RMF, Govern function** 
+__________________________________________________________________________________________________
 
-**Finding 1:** No documented, risk-tiered deployment policy
+**Finding 1: No documented, risk-tiered deployment policy**
 
 **System:** CreditScore-ML (consumer credit decisioning)
 
