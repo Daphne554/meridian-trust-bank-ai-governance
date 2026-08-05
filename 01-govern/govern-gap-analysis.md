@@ -1,4 +1,4 @@
-**Govern Gap Analysis**
+**Govern Gap Analysis**..
 *Meridian Trust Bank · NIST AI RMF, Govern function*
 __________________________________________________________________________________________________
 
