@@ -49,7 +49,7 @@
 - **Purpose:** Real-time transaction fraud scoring for debit/credit card transactions
 - **Type:** Ensemble of gradient boosting + rules engine, vendor-licensed core model (third-party) with in-house tuning layer
 - **Risk profile:** Medium-high false positives cause customer friction and complaints (UDAAP-adjacent), false negatives are direct financial loss; third-party model risk applies (OCC vendor risk guidance)
-- **Governance status:** Vendor provides a model card but Meridian has never independently validated the vendor's training data or bias testing; contract is up for renewal this year (good scenario for third-party risk exercises)
+- **Governance status:** Vendor provides a model card but Meridian has never independently validated the vendor's training data or bias testing; contract is up for renewal this year 
 
 ### 3.3 AML Transaction Monitoring Alerts ("Watchtower")
 - **Purpose:** Generates suspicious activity alerts for BSA/AML compliance team review
