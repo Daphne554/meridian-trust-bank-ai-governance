@@ -51,3 +51,16 @@ ________________________________________________________________________________
 **Why it matters (Govern 4):** Govern 4 calls for risk management to be embedded as an ongoing organizational practice, with risks, benefits, and impacts documented and tracked across a system's full lifecycle not treated as a launch-day formality. A one-time snapshot gives a false sense of assurance: CreditScore-ML looks "validated" on paper, but that status hasn't been re-confirmed in three years, and there's no structural guarantee it ever will be. Documentation without a mechanism to keep it current or to ensure flagged risks get resolved doesn't meaningfully reduce risk, it just creates a record that a check happened once.
 
 **Recommended fix:** Pair the risk-tiering policy (Finding 1) and named risk ownership (Finding 2) with a defined follow-through requirement, every identified risk gets logged with an owner, a target resolution date, and a status that's reviewed on a set cadence (e.g., quarterly, aligned to existing Board Risk Committee reporting). This doesn't require new headcount immediately it requires a tracking mechanism and an accountable reviewer, which can be assigned as part of the Finding 2 fix.
+
+
+
+**Finding 5: Individual complaints aren't aggregated into a model-level feedback signal**
+
+**System:** CreditScore-ML (consumer credit decisioning)
+
+**Finding:** A customer who believes CreditScore-ML denied them unfairly would likely raise it through customer service or in response to the required FCRA adverse action notice, and that complaint would reasonably reach Compliance given their fair-lending role. So individual complaints don't disappear entirely but nothing in the profile suggests those complaints are tracked as a pattern that could signal a problem with the model itself. Each complaint appears to be handled as a one-off case resolution, not as a data point feeding back into AI governance or triggering a model-level review.
+
+**Why it matters (Govern 5):** Govern 5 calls for mechanisms that allow external, real-world feedback from customers or other affected parties to actually inform AI risk management, not just get resolved individually. A pattern of complaints (e.g. a spike in denials or a demographic skew in who's complaining) can be an early warning sign of model drift or bias that internal validation alone might miss, since internal teams aren't the ones experiencing the model's real-world impact firsthand. Without aggregation, that signal is lost even when the underlying complaints are being handled reasonably well on a case-by-case basis.
+
+**Recommended fix:** Establish a lightweight process for Compliance to log AI-related complaints in a way that it is queried by the system (not just by individual case), with a periodic review (e.g. quarterly, aligned with the Finding 4 tracking) to check for patterns that would warrant flagging CreditScore-ML for out-of-cycle review. This connects naturally to the named AI risk owner role proposed in Finding 2. The owner would be the natural recipient of an aggregated complaint-pattern report.
+
